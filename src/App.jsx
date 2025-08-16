@@ -20,7 +20,7 @@ const portfolioData = {
   email: "vignesh2210685@ssn.edu.in",
   linkedin: "https://www.linkedin.com/", // Replace with your actual Linkedin URL
   github: "https://github.com/", // Replace with your actual Github URL
-  profileImage: "/profile.jpg", // Assumes your image is in public/images/profile.jpg
+  profileImage: "/WhatsApp Image 2025-06-24 at 14.50.05_5729595b.jpg", // Assumes your image is in public/images/profile.jpg
   introduction: "B.Tech Information Technology student at SSN College of Engineering with a passion for Machine Learning, particularly in Reinforcement Learning and Graph Neural Networks. Proven ability to build end-to-end systems that tackle complex problems like real-time threat detection and fraud analysis.",
   projects: [
     {
